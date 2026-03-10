@@ -11,12 +11,9 @@ I am a Computer Science major at the University of Maryland with interests in AI
 
 ## Skills
 
-### Languages & Core Technologies
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,mysql,html,css)](https://skillicons.dev)
 
-### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,flask,tensorflow,pytorch,opencv)](https://skillicons.dev)
-
-### Tools & Databases
-[![My Skills](https://skillicons.dev/icons?i=git,firebase,sqlite,postman)](https://skillicons.dev)
+### Technologies
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,flask,tensorflow,pytorch,git,firebase,matlab,opencv)](https://skillicons.dev)
 
