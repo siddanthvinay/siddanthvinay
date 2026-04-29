@@ -18,7 +18,7 @@ I am a Computer Science and Finance double major at the University of Maryland w
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,mysql,html,css)](https://skillicons.dev)
 
 ### Technologies
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,flask,nextjs,tailwind,gcp,sklearn,figma,jira,git,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,flask,nextjs,tailwind,gcp,sklearn,figma,git,matlab)](https://skillicons.dev)
 
 ## Featured Projects
 
