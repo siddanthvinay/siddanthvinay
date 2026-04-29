@@ -1,6 +1,6 @@
-## Hi! My name is Siddanth Vinay
+# Hi! My name is Siddanth Vinay
 
-### Computer Science + Finance Student @ University of Maryland
+## Computer Science + Finance Student @ University of Maryland
 
 I am a Computer Science and Finance double major at the University of Maryland with interests in AI/ML, data science, product management and the intersection of computer science and finance.
 
